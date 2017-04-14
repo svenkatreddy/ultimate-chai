@@ -11,6 +11,18 @@ chai with sinon-chai, dirty-chai, sinon-as-promised with mixed features
 npm install ultimate-chai --save-dev
 ```
 
+## Usage
+```
+const chai = require('ultimate-chai');
+const expect = chai.expect;
+expect(true).to.be.true();
+```
+(or)
+```
+const expect = require('ultimate-chai').expect;
+expect(true).to.be.true();
+```
+
 # Dirty Chai Assertions
 
 The following built-in assertions are modified by this plugin to now use the function-call form:
