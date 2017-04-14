@@ -1,0 +1,39 @@
+{
+  "name": "ultimate-chai",
+  "version": "1.0.0",
+  "description": "ultimate chai library you'll ever need with cross mixture of sinon-chai, dirty-chai, chai-as-promised included",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test NODE_PATH=./ mocha test/**/*-test.js",
+    "test-fail": "NODE_ENV=test NODE_PATH=./ mocha test/**/*-fail.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svenkatreddy/ultimate-chai.git"
+  },
+  "keywords": [
+    "chai",
+    "dirty",
+    "sinon",
+    "ultimate",
+    "expect",
+    "should",
+    "promise"
+  ],
+  "author": "Venkat Reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svenkatreddy/ultimate-chai/issues"
+  },
+  "homepage": "https://github.com/svenkatreddy/ultimate-chai#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "dirty-chai": "^1.2.2",
+    "sinon-chai": "^2.9.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "sinon": "^2.1.0"
+  }
+}
