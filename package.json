@@ -1,6 +1,6 @@
 {
   "name": "ultimate-chai",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "ultimate chai library you'll ever need with cross mixture of sinon-chai, dirty-chai, chai-as-promised included",
   "main": "index.js",
   "scripts": {
