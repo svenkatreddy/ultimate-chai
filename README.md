@@ -1,7 +1,7 @@
 # ultimate-chai
 [![Build Status](https://travis-ci.org/svenkatreddy/ultimate-chai.svg?branch=master)](https://travis-ci.org/svenkatreddy/ultimate-chai)
 
-[![NPM](https://nodei.co/npm/json-remote-search.png?stars=true)](https://nodei.co/npm/ultimate-chai/)
+[![NPM](https://nodei.co/npm/ultimate-chai.png?stars=true)](https://nodei.co/npm/ultimate-chai/)
 
 chai with sinon-chai, dirty-chai, sinon-as-promised with mixed features
 
