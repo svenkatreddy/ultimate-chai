@@ -15,6 +15,7 @@ npm install ultimate-chai --save-dev
 
 The following built-in assertions are modified by this plugin to now use the function-call form:
 
+
 <table>
     <thead>
         <tr>
