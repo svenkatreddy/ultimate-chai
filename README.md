@@ -9,7 +9,6 @@ chai with sinon-chai, dirty-chai, sinon-as-promised with mixed features
 ## Install
 ```
 npm install ultimate-chai --save-dev
-
 ```
 
 # Dirty Chai Assertions
@@ -48,7 +47,6 @@ The following built-in assertions are modified by this plugin to now use the fun
             <td>exist</td>
             <td>expect('sample').to.exist()</td>
         </tr>
-        
         <tr>
             <td>empty</td>
             <td>expect('').to.empty()</td>
@@ -61,7 +59,6 @@ The following built-in assertions are modified by this plugin to now use the fun
             <td>Arguments</td>
             <td>Arguments()</td>
         </tr>
-        
     </tbody>
 </table>
 
