@@ -1,6 +1,6 @@
 {
   "name": "ultimate-chai",
-  "version": "3.1.0",
+  "version": "4.0.0",
   "description": "ultimate chai library you'll ever need with cross mixture of sinon-chai, dirty-chai, chai-as-promised included",
   "main": "index.js",
   "scripts": {
@@ -27,14 +27,14 @@
   },
   "homepage": "https://github.com/svenkatreddy/ultimate-chai#readme",
   "dependencies": {
-    "chai": "^3.5.0",
-    "chai-as-promised": "^6.0.0",
-    "dirty-chai": "^1.2.2",
+    "chai": "^4.0.2",
+    "chai-as-promised": "^7.0.0",
+    "dirty-chai": "^2.0.0",
     "sinon": "^2.1.0",
-    "sinon-chai": "^2.9.0"
+    "sinon-chai": "^2.11.0"
   },
   "devDependencies": {
-    "mocha": "^3.2.0",
-    "sinon": "^2.1.0"
+    "mocha": "^3.4.2",
+    "sinon": "^2.3.4"
   }
 }

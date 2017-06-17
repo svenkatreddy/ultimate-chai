@@ -5,6 +5,7 @@
 
 chai with sinon-chai, dirty-chai, sinon-as-promised with mixed features
 
+Now supports Chai 4.x
 
 ## Install
 ```
@@ -345,3 +346,5 @@ const testspy = sinon.spy();
       expect(spy).to.always.have.been.calledWithNew();
     });
 ```
+
+you still can use Chai 3.x with ultimate-chai 3.x
