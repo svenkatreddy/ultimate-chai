@@ -3,7 +3,7 @@
 
 [![NPM](https://nodei.co/npm/ultimate-chai.png?stars=true)](https://nodei.co/npm/ultimate-chai/)
 
-chai with sinon-chai, dirty-chai, sinon-as-promised with mixed features
+chai with sinon-chai, dirty-chai, chai-as-promised with mixed features
 
 Now supports Chai 4.x
 
